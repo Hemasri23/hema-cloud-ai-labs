@@ -33,4 +33,4 @@ Every topic in this repository should produce practical evidence such as:
 
 ## Current Stage
 
-Current Stage: Python automation preparation
+Current Stage: Git branching, pull requests and merge conflicts completed; Python automation and Linux are next.
