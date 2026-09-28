@@ -33,4 +33,4 @@ Every topic in this repository should produce practical evidence such as:
 
 ## Current Stage
 
-Stage 1: Cloud foundations, Git, Python and AZ-104.
+Stage 1: Learning Git branching, pull requests and merge conflicts.
